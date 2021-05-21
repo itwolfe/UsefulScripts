@@ -1,4 +1,4 @@
-# Google Chrome
+# Google Chrome Installation
 
 # Sets variable to dowload url for current google chrome version
 $SourceURL = "http://dl.google.com/chrome/install/375.126/chrome_installer.exe"
